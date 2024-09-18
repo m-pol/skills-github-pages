@@ -2,5 +2,5 @@
 title: Welcome to my blog
 ---
 
-#Wo
+# Wo
 Hey
